@@ -70,7 +70,7 @@ export default function AuthForm({ onLogin }) {
                 value={form.name}
                 onChange={handleChange}
                 placeholder="Full name"
-                className="w-full border border-gray-300 rounded px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#0a66c2]"
+                className="w-full border border-gray-300 rounded px-3 py-2 text-sm text-gray-700focus:outline-none focus:ring-2 focus:ring-[#0a66c2]"
               />
             </div>
           )}
@@ -82,7 +82,7 @@ export default function AuthForm({ onLogin }) {
               onChange={handleChange}
               placeholder="Email"
               type="email"
-              className="w-full border border-gray-300 rounded px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#0a66c2]"
+              className="w-full border border-gray-300 rounded px-3 py-2 text-sm text-gray-700 focus:outline-none focus:ring-2 focus:ring-[#0a66c2]"
             />
           </div>
 
@@ -93,7 +93,7 @@ export default function AuthForm({ onLogin }) {
               onChange={handleChange}
               placeholder="Password"
               type="password"
-              className="w-full border border-gray-300 rounded px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#0a66c2]"
+              className="w-full border border-gray-300 rounded text-gray-700 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#0a66c2]"
             />
           </div>
 
