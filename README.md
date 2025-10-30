@@ -14,7 +14,7 @@ State Management  -  Redux Toolkit
 Icons & UI   - 	React Icons (LinkedIn-style icons)
 
 ###Open in browser
-Visit -->
+Visit --> https://linkedin-clone-three-rho.vercel.app/
 
 ###Future Improvements
 
